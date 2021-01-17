@@ -8,7 +8,7 @@
 // Uncomment '#define STATICIP' define below and change the IPAddress static_ip, subnet, gateway and dns if you wish to use a static IP
 // Otherwise it will use DHCP
 
-#define STATICIP
+// #define STATICIP
 
 
 #ifdef STATICIP
